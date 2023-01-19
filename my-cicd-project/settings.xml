@@ -62,7 +62,6 @@ under the License.
          <name>your custom repo</name>
          <url>http://34.224.31.113:8081/repository/maven-snapshots/</url>
        </repository>
-	   
      </repositories>
    </profile>
     <profile>
